@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    cursor: default;
+}
+
+body {
+    padding: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+td {
+    padding: 5px;
+}
+table {
+    border-collapse: collapse;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
